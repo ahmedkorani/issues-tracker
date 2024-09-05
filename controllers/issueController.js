@@ -1,4 +1,3 @@
-// controllers/issueController.js
 const Issue = require("../models/issue");
 
 exports.createIssue = async (req, res) => {
